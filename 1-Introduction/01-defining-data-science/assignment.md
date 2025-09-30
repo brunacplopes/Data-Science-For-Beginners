@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education | a lot of schools do not recive matirial | collect how much and what are the matirial that the schools obtains |in a data based in SQL  |what matirial and what school needs |
 | Vaccination | | | | |
 | Productivity | | | | |
 
